@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-18:13:11	101/101	---M--	200	added ('OK')	text/plain	etag:%2258ef9afb-65%22	https://web.archive.org/robots.txt		(from )
-18:13:16	46964/46964	---MCZ	200	added ('OK')	text/html	date:Tue,%2019%20Dec%202017%2002:13:10%20GMT	https://web.archive.org/web/19970404064352/http://www.apple.com:80/	C:/Users/Awesome/Desktop/Apple_1997/Apple_1997/web.archive.org/web/19970404064352/http_/www.apple.com_80/index.html	(from )
